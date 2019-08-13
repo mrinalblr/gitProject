@@ -1,2 +1,2 @@
- this is the second file
+ this is the second file being modified by developer 1
 
