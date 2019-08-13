@@ -1,2 +1,3 @@
  this is the second file being modified by developer 1
+ this is the second file which has been modified by some other developer after cloning the remote repository
 
